@@ -8,7 +8,7 @@ A clean and simple weather application that displays real-time weather data base
 
 ## 📸 Screenshot
 
-![Screenshot](Screenshot%20from%202025-08-06%2010-40-12.png)
+![App Screenshot](screenshot.png)
 
 ## 🛠️ Tech Stack
 
