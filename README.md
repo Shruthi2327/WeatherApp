@@ -8,7 +8,7 @@ A clean and simple weather application that displays real-time weather data base
 
 ## 📸 Screenshot
 
-![Weather Wizard Screenshot](screenshot.png) <!-- Add your screenshot if you have one -->
+![Screenshot](Screenshot%20from%202025-08-06%2010-40-12.png)
 
 ## 🛠️ Tech Stack
 
